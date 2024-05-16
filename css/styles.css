@@ -10,6 +10,11 @@
 
 }
 
+
+
+
+
+
 .container {
 	width: 100%;
 }
@@ -174,9 +179,9 @@ section.two {
 	background-color: #f7a67f;
 }
 
-section h4 {
+section h6 {
 	text-align: center;
-	letter-spacing: 0.8px;
+	letter-spacing: 3px;
 	padding-top:10px;
 }
 
@@ -337,7 +342,8 @@ footer ul img {
 }
 
 .side {
-	background-color: #bfdcd8;
+	background-color: salmon;
+	color: white;
 	height: auto;
 	padding:20px 30px;
 }
@@ -573,5 +579,3 @@ footer li a:hover {
 
 
 }
-
-
